@@ -38,7 +38,7 @@ Run python snippet to send live data using kafka-producer
 
 ```bash
 python kafka-message/producer.py
-
+```
 Start Spark Structured Streaming script run_pipeline.py on Databricks to read the stream and create your OLAP cube.
 
 
